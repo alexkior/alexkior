@@ -1,4 +1,4 @@
-# [Your Name] - Full Stack Engineer & Team Lead
+# [Alex Kior] - Full Stack Engineer & Team Lead
 
 🌐 [LinkedIn](https://www.linkedin.com/in/ki0r/) | 🐦 [Twitter](https://twitter.com/alexki0r) | ✉️ [Email](mailto:akior.dev@gmail.com)
 

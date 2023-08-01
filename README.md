@@ -3,21 +3,26 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/ki0r/) | 🐦 [Twitter](https://twitter.com/alexki0r) | ✉️ [Email](mailto:akior.dev@gmail.com)
 
 ## 🌟 About Me
-Full Stack Engineer (React/Node) with a solid design background. Experienced in building scalable solutions supporting 80k+ users. Adept at team leadership and mentorship. Seeking a product-focused team to contribute as both a developer and team lead. Passionate about illustration and music production in my downtime.
+Experienced Full Stack Engineer (React/Node) and design expert, with a proven track record in developing scalable applications for 80k+ users. 
+Eager to apply my software development and design expertise to a product-oriented team. 
+In my leisure time, I find joy in illustration and music.
 
 ## 🚀 Experience
 
 ### 🛠️ Software Engineer at National Research University Higher School of Economics
 _Dec 2021 – Present | Remote_
-- Modernized a legacy Perl app for student dorm placement, adding booking, legal aid, and manager communication features, while transferring user history data.
-- Enhanced development, deployment, and storage infrastructure, leading to increased team productivity and faster time to market.
-- Mentored junior developers and built a SPA for app administration, enabling swift integration and a user-friendly WYSIWYG editor for corporate style.
+- Completely rebuilt a legacy Perl dorm app from scratch, using a modern JavaScript stack and legacy data, introducing new features for 80K users.
+- Streamlined development with GitLab CI, efficient deployment pipelines, and Docker Swarm, accelerating product delivery and team efficiency.
+- Guided junior developers in managing their own working projects.
+- Developed a user-friendly SPA, simplifying editing of instruction pages and facilitating system integration and customization.
 
 ### 💻 Frontend Developer & UI Designer at Plekhanov Point
 _Jul 2020 – Nov 2021 | Remote_
-- Enhanced front-end skills in complex architecture, TypeScript, and Styled-components while working on the app for a University's internal currency.
-- Streamlined development with branching CI/CD infrastructure and mastered responsive, component-based design using Figma for seamless user experience.
-- Maintained design consistency across logos, fonts, colors, and measurement units, while refactoring components with TypeScript to meet client requirements.
+- Amplified front-end expertise while developing a university's internal currency app, utilizing TypeScript and Styled-components in a complex architecture.
+- Improved development process using a branching CI/CD infrastructure.
+- Mastered responsive, component-based design via Figma for a seamless user experience.
+- Developed and upheld design uniformity across logos, fonts, colors, and measurements.
+- Utilized TypeScript in refactoring components to meet client demands.
 
 ### 🎨 Graphic & UI Designer at Plekhanov Russian University of Economics
 _Jan 2018 – Jan 2021 | Moscow_

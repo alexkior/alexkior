@@ -1,6 +1,6 @@
 # Alex Kior - Full Stack Engineer
 
-🌐 [LinkedIn](https://www.linkedin.com/in/ki0r/) | 🐦 [Twitter](https://twitter.com/alexki0r) | ✉️ [Email](mailto:akior.dev@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/ki0r/) | ✉️ [Email](mailto:akior.dev@gmail.com)
 
 ## 🌟 About Me
 Experienced Full Stack Engineer (React/Node) and design expert, with a proven track record in developing scalable applications for 80k+ users. 

@@ -10,7 +10,7 @@ In my leisure time, I find joy in illustration and music.
 ## 🚀 Experience
 
 ### 🛠️ Software Engineer at National Research University Higher School of Economics
-_Dec 2021 – Present | Remote_
+_Dec 2021 – Aug 2023 | Remote_
 - Completely rebuilt a legacy Perl dorm app from scratch, using a modern JavaScript stack and legacy data, introducing new features for 80K users.
 - Streamlined development with GitLab CI, efficient deployment pipelines, and Docker Swarm, accelerating product delivery and team efficiency.
 - Guided junior developers in managing their own working projects.
@@ -31,9 +31,9 @@ _Jan 2018 – Jan 2021 | Moscow_
 - Showcased expertise in diverse branding strategies, leading interns to achieve project objectives.
 
 ## 💡 Skills
-- **Languages:** JavaScript, TypeScript, HTML/CSS, Perl
-- **Frameworks/Libraries:** React, Node, Styled-components
-- **Tools:** Git, Figma, CI/CD, SPA, WYSIWYG
+- **Languages:** JavaScript, TypeScript, HTML/CSS
+- **Frameworks/Libraries:** React, React Native, Express
+- **Tools:** Git, Figma, CI/CD, WYSIWYG
 - **Design:** UI/UX, Graphic Design, Branding, Responsive Design
 
 ## 🎯 Interests

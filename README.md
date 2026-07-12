@@ -1,41 +1,91 @@
-# Alex Kior - Full Stack Engineer
+Hi, I'm Aleksei Kior
 
-🌐 [LinkedIn](https://www.linkedin.com/in/ki0r/) | ✉️ [Email](mailto:akior.dev@gmail.com)
+Frontend Engineer with 5+ years of experience building web and mobile applications with React, React Native, TypeScript, and JavaScript.
 
-## 🌟 About Me
-Experienced Full Stack Engineer (React/Node) and design expert, with a proven track record in developing scalable applications for 80k+ users. 
-Eager to apply my software development and design expertise to a product-oriented team. 
-In my leisure time, I find joy in illustration and music.
+I currently work on fintech products, including banking interfaces, payment gateway integrations, complex API-driven flows, and production support. My background also includes admin dashboards, internal platforms, reusable component systems, UI design, and frontend infrastructure.
 
-## 🚀 Experience
+Based in Podgorica, Montenegro.
 
-### 🛠️ Software Engineer at National Research University Higher School of Economics
-_Dec 2021 – Aug 2023 | Remote_
-- Completely rebuilt a legacy Perl dorm app from scratch, using a modern JavaScript stack and legacy data, introducing new features for 80K users.
-- Streamlined development with GitLab CI, efficient deployment pipelines, and Docker Swarm, accelerating product delivery and team efficiency.
-- Guided junior developers in managing their own working projects.
-- Developed a user-friendly SPA, simplifying editing of instruction pages and facilitating system integration and customization.
+What I work with
+React, React Native, TypeScript, and JavaScript
+Redux Toolkit, RTK Query, React Router, and Context API
+REST API and payment gateway integrations
+Admin dashboards, CRUD interfaces, and complex forms
+Responsive, cross-browser, and accessible interfaces
+Swift and Kotlin modules for React Native applications
+Jest, React Testing Library, Cypress, and Playwright
+Storybook, Webpack, Vite, GitLab CI, and Docker
+Figma and production-ready UI implementation
+Svelte in personal projects
+Codex and other AI-assisted development workflows
+Current focus
+Building reliable fintech products
+Developing payment and banking interfaces
+Improving frontend architecture and performance
+Creating reusable UI components and design patterns
+Investigating production issues and improving release stability
+Exploring Svelte through personal projects
+Using Codex for implementation, debugging, refactoring, and technical research
 
-### 💻 Frontend Developer & UI Designer at Plekhanov Point
-_Jul 2020 – Nov 2021 | Remote_
-- Amplified front-end expertise while developing a university's internal currency app, utilizing TypeScript and Styled-components in a complex architecture.
-- Improved development process using a branching CI/CD infrastructure.
-- Mastered responsive, component-based design via Figma for a seamless user experience.
-- Developed and upheld design uniformity across logos, fonts, colors, and measurements.
-- Utilized TypeScript in refactoring components to meet client demands.
+I use AI-assisted development tools to improve delivery speed, but I treat generated code as a draft. I review, test, and adapt it before integration to ensure that it fits the application architecture and meets production quality standards.
 
-### 🎨 Graphic & UI Designer at Plekhanov Russian University of Economics
-_Jan 2018 – Jan 2021 | Moscow_
-- Delivered graphic and web design with HTML/CSS for internal resources, events, and social media.
-- Led branding development for university departments, guiding an intern team and providing design services.
-- Showcased expertise in diverse branding strategies, leading interns to achieve project objectives.
+Selected experience
+Fintech and banking
 
-## 💡 Skills
-- **Languages:** JavaScript, TypeScript, HTML/CSS
-- **Frameworks/Libraries:** React, React Native, Express
-- **Tools:** Git, Figma, CI/CD, WYSIWYG
-- **Design:** UI/UX, Graphic Design, Branding, Responsive Design
+Built and launched a cross-platform React Native banking application for the US market.
 
-## 🎯 Interests
-- Illustration 🎨
-- Music Production 🎧
+Worked on:
+
+Payment gateway integrations
+Financial user flows
+Native Swift and Kotlin modules
+API integration and error handling
+Reusable UI components
+Production incidents and release support
+Architecture improvements and technical debt reduction
+Admin dashboards and internal platforms
+
+Rebuilt a legacy React and TypeScript application used by more than 80,000 users.
+
+Developed:
+
+Admin dashboards
+CRUD and data-management interfaces
+API-driven workflows
+Internal content management tools
+GitLab CI and Docker-based delivery processes
+UI engineering
+
+My earlier experience in UI and graphic design helps me work effectively between design and engineering.
+
+I focus on:
+
+Translating Figma designs into production interfaces
+Consistent spacing, typography, and interaction patterns
+Responsive and cross-browser behaviour
+Practical UX solutions for complex business requirements
+Tech stack
+Frontend
+React · React Native · TypeScript · JavaScript · HTML · CSS · Svelte
+
+State and data
+Redux Toolkit · RTK Query · React Router · Context API · REST API
+
+Testing
+Jest · React Testing Library · Cypress · Playwright
+
+UI and tooling
+Storybook · Figma · Webpack · Vite · ESLint · Prettier
+
+Delivery and monitoring
+Git · GitLab CI · Docker · Sentry
+
+Mobile
+Swift · Kotlin
+
+AI-assisted development
+Codex
+Contact
+LinkedIn: linkedin.com/in/ki0r
+Email: akior.dev@gmail.com
+Telegram: @alexki0r
